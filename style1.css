@@ -1,0 +1,76 @@
+.main-title {
+    margin: 0;
+    color: rgb(255, 255, 255);
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.subtitle {
+    margin: 0;
+    color: white;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+  
+  .banner-img {
+    width: 100%;
+    margin: 0;
+  }
+  
+  .navigation-bar {
+    background-color: rgb(92, 57, 70);
+    margin: 0;
+  }
+  
+  .navigation-bar li {
+    display: inline-block;
+    margin: 18px 13%;
+  }
+  .hero-wrapper {
+    background: url("https://images.wallpaperscraft.com/image/single/animals_cartoon_drawing_80242_3840x2400.jpg");
+    background-size: cover;
+  }
+  
+  .wrapper {
+    padding: 11em;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  button {
+    background-color: rgb(27, 51, 137);
+    color: rgb(154, 145, 145);
+    font-weight:800;
+    border-radius: 50px;
+    padding: 15px 10px;
+    cursor: pointer;
+  }
+  
+  .main-content {
+    display: flex;
+    justify-content: center;
+    background-color: #114061;
+    margin: 0;
+  }
+  .card-content {
+    display: inline-block;
+    background-color: rgb(138, 8, 62);
+    border: 8px solid rgb(222, 15, 81);
+    border-radius: 10px;
+    margin: 50px;
+    min-width: 400px;
+    min-height: 300px;
+  }
+  .card-title {
+    margin: 0;
+  }
+  
+  .footer-bar {
+    background-color: rgb(37, 154, 129);
+    margin: 0;
+    padding: 10px;
+  }
+  
+  .footer-bar p {
+    list-style: none;
+    text-align: center;
+    font-weight: 800;
+  }
+  
